@@ -1,0 +1,501 @@
+,customer_id,age,gender,marital_status,annual_income,total_purchases,preferred_category
+0,4233,60,Female,Single,49819,45,Home Goods
+1,5451,23,Male,Single,37186,13,Home Goods
+2,5813,40,Female,Married,92643,35,Electronics
+3,3141,57,Female,Married,66103,27,Home Goods
+4,3121,23,Female,Single,40674,25,Appliances
+5,1025,35,Male,Married,30592,29,Home Goods
+6,5044,21,Female,Single,114518,13,Appliances
+7,2343,60,Female,Single,69676,31,Appliances
+8,1964,20,Female,Single,73393,26,Appliances
+9,4343,59,Female,Divorced,54515,42,Electronics
+10,1374,39,Male,Single,108051,13,Appliances
+11,5945,45,Male,Single,92664,22,Home Goods
+12,2744,48,Female,Divorced,53549,40,Appliances
+13,2446,38,Male,Married,81105,44,Appliances
+14,2225,54,Male,Single,61817,20,Home Goods
+15,1959,25,Female,Married,85097,41,Appliances
+16,4503,34,Female,Divorced,117419,32,Electronics
+17,2860,58,Female,Single,112414,19,Electronics
+18,5815,22,Female,Married,62413,41,Home Goods
+19,1207,42,Female,Married,57310,43,Electronics
+20,2045,39,Male,Single,90061,15,Electronics
+21,4587,41,Female,Divorced,36013,42,Appliances
+22,2536,54,Female,Divorced,97308,22,Home Goods
+23,5714,62,Female,Divorced,86230,46,Home Goods
+24,1344,29,Female,Single,74407,39,Appliances
+25,2448,28,Male,Married,37070,33,Appliances
+26,1952,30,Female,Divorced,51697,23,Appliances
+27,4678,59,Male,Single,36617,44,Appliances
+28,4960,42,Female,Single,76239,15,Home Goods
+29,4339,63,Female,Married,76395,12,Appliances
+30,1303,60,Male,Married,110409,40,Appliances
+31,3915,63,Male,Single,82602,46,Appliances
+32,2578,28,Male,Divorced,59410,19,Appliances
+33,2128,32,Male,Single,38341,34,Electronics
+34,4390,49,Female,Divorced,37997,22,Appliances
+35,2874,36,Male,Single,107464,27,Appliances
+36,3453,44,Male,Divorced,50370,24,Appliances
+37,4004,47,Female,Married,67248,11,Appliances
+38,5961,39,Male,Single,32480,18,Electronics
+39,3880,56,Female,Single,99012,37,Electronics
+40,1157,49,Female,Single,109163,43,Appliances
+41,2398,20,Female,Single,88768,30,Home Goods
+42,5439,25,Male,Divorced,47058,46,Appliances
+43,1601,55,Female,Divorced,72218,18,Electronics
+44,1316,41,Male,Married,35149,47,Home Goods
+45,2551,44,Male,Married,73766,31,Appliances
+46,2987,27,Male,Single,99862,12,Home Goods
+47,5042,40,Male,Divorced,111904,41,Appliances
+48,3939,42,Male,Single,53227,45,Appliances
+49,4554,42,Female,Divorced,116555,46,Appliances
+50,4757,58,Female,Divorced,99141,30,Home Goods
+51,2941,53,Male,Married,82476,31,Home Goods
+52,1318,40,Female,Single,47396,22,Electronics
+53,4431,57,Male,Married,40882,19,Appliances
+54,2230,31,Male,Divorced,113761,40,Appliances
+55,5163,39,Male,Divorced,60198,21,Electronics
+56,4009,38,Female,Divorced,104512,34,Electronics
+57,4332,64,Female,Married,84533,21,Appliances
+58,3235,48,Female,Married,76792,19,Home Goods
+59,5506,53,Male,Single,67578,46,Appliances
+60,3207,23,Male,Single,36351,16,Appliances
+61,4102,65,Male,Single,107106,34,Appliances
+62,4077,40,Male,Divorced,67435,21,Electronics
+63,3454,37,Male,Single,81555,11,Appliances
+64,4857,54,Male,Divorced,72427,17,Appliances
+65,3868,27,Male,Divorced,92473,43,Appliances
+66,3527,20,Male,Divorced,113592,37,Appliances
+67,5094,62,Female,Married,68582,28,Appliances
+68,4167,43,Female,Single,92409,18,Home Goods
+69,1181,28,Male,Divorced,73708,47,Electronics
+70,5694,37,Female,Single,62375,48,Electronics
+71,5582,54,Female,Single,84223,36,Appliances
+72,2215,29,Female,Married,59194,34,Home Goods
+73,5472,20,Female,Married,30974,50,Electronics
+74,4456,47,Male,Divorced,119294,19,Electronics
+75,1003,48,Male,Married,44225,49,Appliances
+76,4236,38,Male,Married,110822,23,Home Goods
+77,2966,37,Male,Married,66964,43,Home Goods
+78,3409,52,Male,Divorced,87694,46,Appliances
+79,4446,54,Female,Divorced,31405,47,Electronics
+80,4764,44,Male,Single,100124,47,Home Goods
+81,2982,65,Male,Divorced,46449,11,Home Goods
+82,1410,36,Female,Single,105740,45,Electronics
+83,3342,64,Female,Divorced,97312,49,Appliances
+84,2674,26,Female,Divorced,112888,15,Appliances
+85,3821,30,Female,Single,116301,46,Appliances
+86,2107,56,Female,Divorced,114733,48,Home Goods
+87,2258,20,Female,Single,80388,49,Home Goods
+88,3717,58,Female,Married,90343,38,Appliances
+89,1670,50,Female,Single,97270,12,Electronics
+90,3339,30,Female,Divorced,112431,30,Home Goods
+91,1655,62,Female,Divorced,105851,46,Electronics
+92,3192,39,Female,Single,87251,19,Appliances
+93,5167,42,Male,Single,43381,28,Electronics
+94,4896,63,Male,Single,96453,19,Home Goods
+95,3277,44,Male,Married,47152,11,Home Goods
+96,1697,47,Male,Married,96179,22,Appliances
+97,5206,37,Female,Single,75813,37,Electronics
+98,4023,20,Female,Married,108934,44,Electronics
+99,1195,20,Female,Single,57143,46,Appliances
+100,4325,50,Female,Single,79175,31,Appliances
+101,5505,64,Female,Single,93938,26,Appliances
+102,3066,23,Female,Single,91120,12,Electronics
+103,1227,65,Male,Divorced,109664,50,Appliances
+104,3625,64,Male,Divorced,99263,13,Appliances
+105,2303,62,Female,Married,33875,12,Electronics
+106,3954,58,Male,Married,47979,26,Appliances
+107,5909,47,Male,Married,78867,13,Electronics
+108,4887,56,Female,Divorced,48160,20,Electronics
+109,3891,22,Female,Married,114638,16,Appliances
+110,2633,48,Female,Divorced,45656,38,Electronics
+111,4929,24,Female,Married,30357,44,Electronics
+112,4320,48,Male,Single,33826,46,Appliances
+113,3866,27,Male,Divorced,65088,11,Home Goods
+114,3767,51,Female,Divorced,92588,32,Appliances
+115,5725,21,Male,Single,47432,14,Electronics
+116,3830,55,Female,Married,56890,48,Home Goods
+117,3326,53,Female,Married,39514,42,Appliances
+118,1730,63,Male,Married,116138,44,Home Goods
+119,5301,44,Male,Single,105318,10,Electronics
+120,2430,45,Male,Single,100276,44,Home Goods
+121,4611,63,Female,Divorced,97437,29,Appliances
+122,1921,51,Male,Divorced,88740,34,Home Goods
+123,1293,51,Female,Divorced,46392,21,Electronics
+124,3793,61,Male,Single,32654,40,Home Goods
+125,4203,61,Female,Divorced,93832,26,Appliances
+126,5701,57,Female,Divorced,90637,34,Home Goods
+127,3590,50,Male,Married,61610,25,Home Goods
+128,4986,35,Male,Divorced,54851,31,Electronics
+129,1407,59,Male,Single,64017,50,Electronics
+130,4824,29,Female,Single,56073,43,Home Goods
+131,2799,61,Female,Married,37041,21,Electronics
+132,5310,34,Male,Married,87507,34,Electronics
+133,2742,28,Female,Divorced,89626,16,Electronics
+134,4079,27,Female,Married,96861,43,Home Goods
+135,2156,27,Female,Divorced,107567,35,Electronics
+136,5966,57,Male,Single,72923,45,Electronics
+137,1050,22,Male,Married,85262,50,Home Goods
+138,4838,45,Male,Single,96076,20,Home Goods
+139,4937,56,Female,Single,103182,45,Appliances
+140,2932,46,Female,Single,67127,12,Appliances
+141,1568,64,Male,Married,98680,25,Home Goods
+142,4816,60,Female,Single,102825,50,Appliances
+143,4959,47,Male,Married,60334,46,Home Goods
+144,4680,54,Male,Married,60199,33,Home Goods
+145,3060,28,Female,Married,100250,21,Appliances
+146,1607,50,Female,Single,79166,33,Electronics
+147,5270,64,Male,Divorced,117821,50,Appliances
+148,3428,49,Male,Married,88824,43,Home Goods
+149,4301,45,Male,Married,85285,24,Appliances
+150,2864,62,Male,Single,32167,12,Appliances
+151,3610,44,Female,Married,67263,13,Home Goods
+152,4476,34,Male,Married,39766,42,Home Goods
+153,3122,63,Male,Single,96953,39,Home Goods
+154,5674,48,Female,Married,99404,15,Appliances
+155,3559,33,Male,Divorced,89117,27,Home Goods
+156,3779,37,Female,Married,104748,36,Appliances
+157,5337,50,Female,Single,107301,30,Electronics
+158,5165,23,Male,Married,71536,18,Electronics
+159,3556,20,Male,Divorced,114656,18,Home Goods
+160,4163,29,Female,Single,32252,45,Home Goods
+161,3086,37,Male,Single,83367,46,Home Goods
+162,1776,30,Female,Divorced,62580,48,Electronics
+163,3548,45,Male,Divorced,68931,43,Home Goods
+164,1196,37,Male,Divorced,63591,22,Home Goods
+165,1055,49,Female,Divorced,64840,50,Appliances
+166,3608,32,Female,Single,116059,46,Electronics
+167,1372,20,Male,Single,36558,34,Appliances
+168,2386,23,Female,Single,94617,41,Electronics
+169,1438,45,Female,Single,117738,23,Home Goods
+170,5359,21,Male,Divorced,67006,30,Appliances
+171,4880,51,Male,Married,63799,45,Home Goods
+172,4742,65,Female,Single,116461,21,Appliances
+173,2930,30,Female,Single,81666,35,Appliances
+174,2653,28,Female,Married,105332,47,Home Goods
+175,4301,63,Female,Single,67015,12,Home Goods
+176,4255,42,Female,Single,51420,27,Home Goods
+177,4308,64,Male,Married,111373,38,Electronics
+178,3903,38,Male,Single,91759,29,Electronics
+179,2649,60,Male,Divorced,75311,29,Appliances
+180,1235,21,Female,Divorced,95090,18,Appliances
+181,5930,58,Female,Divorced,36385,46,Appliances
+182,2248,29,Male,Divorced,58803,23,Home Goods
+183,3455,34,Female,Married,33547,20,Home Goods
+184,3756,50,Female,Married,108051,48,Electronics
+185,3651,28,Male,Divorced,105240,41,Electronics
+186,3888,39,Female,Divorced,64514,47,Electronics
+187,1668,47,Female,Married,97630,31,Appliances
+188,5902,47,Male,Single,100849,26,Home Goods
+189,4699,41,Female,Divorced,117474,26,Appliances
+190,2330,55,Male,Married,113855,17,Home Goods
+191,2810,63,Female,Married,98809,34,Electronics
+192,4630,53,Male,Married,84764,30,Appliances
+193,3874,52,Male,Single,48568,42,Home Goods
+194,4798,20,Male,Divorced,37634,21,Home Goods
+195,5616,31,Male,Married,40709,20,Home Goods
+196,1888,48,Male,Divorced,103755,19,Home Goods
+197,1715,24,Male,Single,60178,14,Home Goods
+198,4654,25,Female,Married,56836,12,Appliances
+199,4750,62,Female,Single,64426,10,Home Goods
+200,2866,48,Female,Divorced,109325,26,Appliances
+201,5183,36,Male,Single,44995,35,Home Goods
+202,3843,54,Female,Single,46599,12,Home Goods
+203,3763,50,Female,Single,116443,13,Appliances
+204,2631,58,Female,Single,45424,42,Electronics
+205,5354,22,Male,Single,109675,44,Appliances
+206,1756,30,Female,Divorced,110358,28,Home Goods
+207,2881,20,Male,Divorced,101700,34,Home Goods
+208,1591,41,Female,Divorced,32270,17,Electronics
+209,1522,59,Female,Married,35627,22,Appliances
+210,2110,33,Female,Single,83565,47,Appliances
+211,4468,29,Female,Married,32878,11,Home Goods
+212,3281,53,Female,Married,45997,29,Electronics
+213,1445,46,Female,Married,107083,39,Electronics
+214,4925,33,Male,Married,58355,19,Electronics
+215,5237,22,Male,Single,105430,42,Electronics
+216,1357,36,Female,Single,30150,14,Appliances
+217,3158,60,Male,Divorced,53536,35,Home Goods
+218,4005,34,Female,Married,76211,41,Electronics
+219,2749,50,Male,Single,75560,12,Electronics
+220,2361,35,Male,Married,66252,13,Home Goods
+221,3722,28,Female,Single,79252,35,Home Goods
+222,4451,65,Female,Married,87344,10,Electronics
+223,3683,43,Female,Divorced,91998,32,Electronics
+224,4244,59,Male,Divorced,43985,21,Electronics
+225,3168,32,Female,Single,109367,45,Home Goods
+226,4727,30,Female,Married,70004,28,Electronics
+227,5582,62,Male,Divorced,85265,49,Appliances
+228,1993,39,Male,Single,114006,33,Appliances
+229,4623,37,Male,Single,106566,43,Home Goods
+230,2899,61,Female,Married,76317,38,Appliances
+231,3686,38,Female,Married,41556,37,Home Goods
+232,2156,43,Male,Single,67100,21,Appliances
+233,3314,60,Male,Divorced,90846,27,Appliances
+234,4680,55,Female,Married,70369,41,Home Goods
+235,5188,38,Female,Divorced,81659,21,Appliances
+236,1076,58,Female,Divorced,71645,23,Electronics
+237,3065,22,Male,Divorced,110986,27,Appliances
+238,5041,28,Male,Married,119903,43,Home Goods
+239,4758,51,Female,Single,47493,38,Appliances
+240,2678,40,Male,Divorced,38120,45,Appliances
+241,4058,39,Male,Single,39190,18,Electronics
+242,2652,41,Female,Single,97474,19,Appliances
+243,4649,40,Female,Divorced,59551,32,Home Goods
+244,1593,57,Male,Divorced,55340,11,Appliances
+245,5769,22,Female,Divorced,67612,23,Home Goods
+246,3793,34,Male,Divorced,42317,46,Home Goods
+247,1942,44,Female,Married,57023,12,Home Goods
+248,4425,44,Male,Divorced,31392,20,Electronics
+249,5453,22,Male,Divorced,46377,23,Home Goods
+250,5060,61,Female,Married,92001,23,Home Goods
+251,1343,54,Male,Single,118703,10,Appliances
+252,2517,39,Male,Single,99811,31,Appliances
+253,2608,57,Male,Single,42849,44,Appliances
+254,4211,64,Male,Single,119319,20,Home Goods
+255,1565,49,Female,Divorced,85254,43,Electronics
+256,2601,65,Male,Divorced,87976,50,Appliances
+257,4280,22,Male,Divorced,32341,28,Electronics
+258,3908,57,Female,Single,78265,35,Home Goods
+259,4965,28,Male,Divorced,86958,19,Electronics
+260,3021,24,Male,Divorced,102162,12,Appliances
+261,3999,61,Female,Single,115505,47,Electronics
+262,1061,45,Female,Single,97340,30,Home Goods
+263,1249,44,Male,Single,46987,23,Appliances
+264,4492,34,Female,Single,73607,34,Home Goods
+265,1241,39,Male,Married,37444,50,Electronics
+266,4567,38,Male,Divorced,73030,33,Appliances
+267,2459,63,Male,Divorced,102905,49,Home Goods
+268,1933,30,Female,Divorced,68810,41,Electronics
+269,3186,53,Male,Divorced,52454,40,Electronics
+270,3602,40,Male,Divorced,40475,23,Electronics
+271,1751,37,Male,Divorced,116522,49,Home Goods
+272,2746,20,Male,Divorced,33633,27,Appliances
+273,4937,39,Male,Single,66886,43,Appliances
+274,5898,52,Female,Married,37563,38,Electronics
+275,1540,55,Female,Single,110774,29,Appliances
+276,1525,25,Female,Married,35783,49,Home Goods
+277,4964,58,Female,Single,108867,24,Appliances
+278,2035,32,Female,Married,113527,17,Appliances
+279,3333,63,Female,Divorced,113782,20,Appliances
+280,2243,27,Female,Single,116267,50,Appliances
+281,3310,41,Male,Single,83819,26,Appliances
+282,4236,35,Male,Single,79529,12,Electronics
+283,5510,45,Male,Divorced,74833,28,Electronics
+284,1516,53,Female,Divorced,97818,25,Home Goods
+285,1018,48,Male,Divorced,114438,16,Appliances
+286,3917,55,Female,Single,61949,19,Home Goods
+287,1372,59,Female,Married,99048,15,Electronics
+288,5611,49,Female,Single,91824,22,Appliances
+289,3107,52,Male,Single,78827,22,Home Goods
+290,2749,60,Female,Single,74056,10,Home Goods
+291,3927,52,Female,Married,63817,43,Appliances
+292,3861,55,Male,Married,96459,41,Electronics
+293,3992,53,Female,Single,89981,47,Home Goods
+294,1937,41,Female,Married,45865,20,Electronics
+295,1182,47,Female,Divorced,81165,18,Appliances
+296,5067,37,Male,Divorced,89243,25,Appliances
+297,4132,33,Female,Single,72646,14,Appliances
+298,4204,36,Male,Divorced,42510,42,Electronics
+299,5700,39,Female,Married,83359,28,Electronics
+300,4482,36,Male,Divorced,93418,27,Appliances
+301,4018,63,Male,Married,92009,14,Appliances
+302,5401,22,Female,Married,32175,49,Electronics
+303,3803,61,Female,Divorced,98225,49,Home Goods
+304,5381,39,Female,Married,49811,37,Home Goods
+305,4585,35,Female,Married,76111,27,Appliances
+306,3701,56,Female,Married,91180,10,Appliances
+307,5020,31,Male,Married,115888,34,Electronics
+308,1944,31,Male,Single,67345,31,Home Goods
+309,3958,31,Male,Divorced,54698,45,Electronics
+310,4640,25,Female,Divorced,116705,29,Appliances
+311,4685,28,Male,Divorced,63868,17,Electronics
+312,3934,51,Female,Married,36426,13,Electronics
+313,4654,29,Male,Single,59110,37,Appliances
+314,1204,39,Female,Married,53084,13,Electronics
+315,2007,56,Male,Divorced,109831,43,Home Goods
+316,5740,25,Female,Single,41165,40,Home Goods
+317,4166,51,Male,Married,95501,17,Home Goods
+318,3076,44,Female,Divorced,40954,41,Home Goods
+319,5306,23,Female,Married,39398,33,Appliances
+320,4311,42,Female,Divorced,47449,45,Electronics
+321,3533,38,Male,Divorced,99109,13,Electronics
+322,5069,20,Female,Single,92854,44,Electronics
+323,3880,58,Male,Divorced,82213,23,Electronics
+324,4614,59,Female,Single,31104,40,Electronics
+325,2060,49,Male,Divorced,77686,34,Electronics
+326,2377,50,Male,Divorced,39233,46,Appliances
+327,2029,48,Female,Married,79448,30,Electronics
+328,5705,56,Male,Married,68938,36,Home Goods
+329,5355,45,Female,Divorced,36506,34,Home Goods
+330,1308,25,Male,Married,74802,48,Home Goods
+331,4541,24,Female,Married,105645,23,Home Goods
+332,5932,43,Female,Divorced,104455,11,Appliances
+333,1827,53,Male,Married,113338,50,Appliances
+334,4251,36,Female,Divorced,96036,23,Home Goods
+335,2498,52,Female,Single,40397,11,Home Goods
+336,3411,61,Female,Divorced,86342,27,Home Goods
+337,5090,24,Female,Married,114466,22,Home Goods
+338,1599,42,Female,Divorced,79594,11,Home Goods
+339,5700,65,Female,Divorced,98166,12,Electronics
+340,5032,64,Male,Single,31338,28,Appliances
+341,1027,22,Male,Divorced,79095,31,Electronics
+342,5256,44,Female,Single,57827,30,Home Goods
+343,1206,34,Male,Single,105355,25,Appliances
+344,1467,51,Male,Divorced,56174,45,Appliances
+345,4580,48,Female,Single,101091,39,Home Goods
+346,2943,46,Male,Divorced,89656,15,Appliances
+347,2361,53,Male,Married,45080,28,Appliances
+348,4083,20,Male,Married,114026,10,Home Goods
+349,4422,21,Male,Divorced,79881,44,Appliances
+350,4439,62,Male,Married,103519,48,Home Goods
+351,3152,20,Female,Divorced,77481,28,Electronics
+352,3935,56,Female,Married,99503,32,Electronics
+353,5482,39,Male,Married,73872,28,Home Goods
+354,3968,57,Female,Married,105528,49,Appliances
+355,3541,41,Male,Divorced,48731,13,Appliances
+356,1079,35,Female,Married,55687,49,Appliances
+357,2697,57,Female,Single,44963,15,Appliances
+358,2686,43,Male,Married,50510,33,Electronics
+359,4531,54,Male,Married,36727,44,Appliances
+360,1402,58,Female,Single,80532,17,Appliances
+361,5843,63,Male,Single,83666,46,Home Goods
+362,1895,51,Male,Married,44628,34,Electronics
+363,2677,62,Female,Divorced,74861,21,Appliances
+364,4081,47,Male,Married,30839,43,Appliances
+365,2329,24,Male,Divorced,113035,10,Electronics
+366,3293,49,Male,Married,54599,38,Home Goods
+367,4494,44,Female,Divorced,81405,16,Appliances
+368,4791,48,Male,Married,118562,18,Appliances
+369,1418,20,Female,Single,31572,25,Appliances
+370,4084,44,Male,Single,75775,33,Electronics
+371,2979,63,Male,Married,38871,34,Electronics
+372,5885,61,Female,Divorced,119191,40,Home Goods
+373,4573,49,Male,Single,79165,41,Home Goods
+374,1583,23,Female,Single,38149,41,Electronics
+375,4080,24,Male,Married,76315,41,Electronics
+376,4348,54,Female,Divorced,73413,24,Appliances
+377,5850,53,Female,Married,46921,28,Home Goods
+378,5375,64,Male,Married,98465,16,Electronics
+379,4061,41,Male,Married,45078,46,Appliances
+380,2250,47,Male,Divorced,78102,16,Appliances
+381,2010,23,Female,Married,111812,42,Electronics
+382,4047,35,Female,Divorced,117268,22,Home Goods
+383,5406,27,Female,Married,109212,35,Appliances
+384,5755,32,Female,Divorced,97356,21,Electronics
+385,1469,36,Male,Single,66852,10,Appliances
+386,1897,27,Female,Single,100129,17,Appliances
+387,5225,57,Female,Single,40386,28,Home Goods
+388,2044,24,Male,Divorced,72374,50,Appliances
+389,5101,64,Male,Married,56311,39,Electronics
+390,3514,43,Female,Married,89747,35,Electronics
+391,5160,53,Female,Married,37367,38,Electronics
+392,5287,43,Female,Single,111938,18,Electronics
+393,3272,64,Male,Married,54163,34,Electronics
+394,3191,30,Female,Single,42743,45,Electronics
+395,3901,58,Female,Single,42771,10,Electronics
+396,4423,57,Female,Married,104377,12,Appliances
+397,3186,65,Female,Divorced,37058,25,Home Goods
+398,4424,62,Male,Divorced,93437,50,Electronics
+399,4961,39,Male,Divorced,75892,40,Electronics
+400,5671,34,Male,Divorced,37358,29,Appliances
+401,4345,39,Female,Married,90557,38,Home Goods
+402,5003,41,Female,Single,75222,27,Home Goods
+403,5695,40,Male,Single,34805,44,Electronics
+404,1097,29,Female,Married,57034,24,Appliances
+405,1620,32,Female,Single,40714,50,Electronics
+406,5479,38,Male,Single,68284,35,Appliances
+407,4388,21,Female,Married,97144,19,Home Goods
+408,2802,34,Female,Divorced,63754,33,Home Goods
+409,3451,20,Male,Married,40721,43,Appliances
+410,1280,29,Female,Divorced,48939,44,Appliances
+411,1450,58,Female,Single,30308,49,Electronics
+412,2196,40,Female,Divorced,115378,15,Appliances
+413,2060,48,Female,Divorced,87322,18,Appliances
+414,1495,36,Female,Married,34407,35,Appliances
+415,4365,61,Female,Divorced,72089,28,Home Goods
+416,1889,58,Female,Divorced,114874,16,Home Goods
+417,3391,20,Male,Married,46304,23,Appliances
+418,2825,32,Male,Single,117050,14,Appliances
+419,2046,36,Female,Single,53018,11,Appliances
+420,4676,56,Male,Divorced,32194,18,Home Goods
+421,3168,22,Female,Divorced,102980,19,Home Goods
+422,5772,64,Male,Single,115659,29,Appliances
+423,1956,38,Male,Divorced,66285,32,Home Goods
+424,3930,53,Female,Married,78252,28,Appliances
+425,3343,55,Male,Single,94948,50,Electronics
+426,4361,25,Male,Single,59077,26,Appliances
+427,3884,49,Male,Single,55569,25,Electronics
+428,5291,64,Female,Divorced,86522,14,Appliances
+429,2675,22,Male,Married,101068,23,Appliances
+430,1578,28,Male,Divorced,30931,13,Electronics
+431,5090,49,Male,Single,51290,43,Appliances
+432,1650,20,Male,Single,92743,16,Home Goods
+433,4816,37,Female,Single,40386,41,Home Goods
+434,3141,54,Male,Married,61086,42,Appliances
+435,5752,33,Female,Divorced,112019,20,Home Goods
+436,4166,39,Male,Single,99480,49,Electronics
+437,4720,52,Male,Married,49315,11,Appliances
+438,1563,33,Male,Married,87388,48,Appliances
+439,4874,65,Female,Divorced,79989,11,Electronics
+440,4885,34,Male,Single,94731,39,Electronics
+441,5297,61,Female,Divorced,85735,30,Home Goods
+442,5845,59,Male,Divorced,102336,30,Appliances
+443,3776,24,Male,Divorced,98633,29,Appliances
+444,5999,61,Male,Single,35684,42,Home Goods
+445,3302,49,Female,Married,80110,31,Appliances
+446,4564,45,Male,Married,117580,29,Electronics
+447,1321,39,Female,Single,105587,39,Appliances
+448,2404,42,Male,Divorced,74920,35,Appliances
+449,3034,30,Male,Single,86176,47,Electronics
+450,1604,37,Male,Divorced,56129,24,Electronics
+451,5455,49,Male,Divorced,115272,12,Electronics
+452,1619,27,Male,Divorced,89797,12,Home Goods
+453,2336,41,Male,Married,86420,33,Home Goods
+454,1294,26,Female,Married,82216,47,Home Goods
+455,2202,45,Male,Single,116213,46,Electronics
+456,4680,21,Female,Single,82274,21,Appliances
+457,4670,58,Male,Single,75598,17,Home Goods
+458,5517,33,Female,Married,65915,45,Electronics
+459,3108,46,Female,Divorced,85560,40,Electronics
+460,5410,58,Male,Single,70564,41,Appliances
+461,3095,21,Male,Married,43764,33,Appliances
+462,2513,46,Male,Married,80128,40,Appliances
+463,3823,46,Female,Married,89743,15,Appliances
+464,3032,29,Male,Divorced,39584,45,Home Goods
+465,3019,43,Female,Married,107149,38,Home Goods
+466,1147,60,Male,Married,105644,17,Home Goods
+467,4307,57,Female,Single,62919,46,Electronics
+468,1872,56,Female,Single,119946,25,Home Goods
+469,2138,60,Male,Single,73208,11,Electronics
+470,5688,45,Female,Divorced,87309,24,Appliances
+471,1313,25,Male,Married,50130,48,Appliances
+472,5057,40,Male,Single,100237,21,Appliances
+473,5218,46,Male,Single,78415,10,Appliances
+474,1049,42,Male,Married,104895,13,Electronics
+475,3323,57,Male,Single,60251,45,Electronics
+476,3946,56,Male,Divorced,112012,48,Appliances
+477,5516,54,Female,Married,83661,24,Home Goods
+478,3164,33,Female,Single,78513,24,Appliances
+479,2802,30,Female,Single,56838,31,Electronics
+480,5802,49,Female,Divorced,71377,21,Appliances
+481,3991,60,Female,Single,38596,28,Home Goods
+482,3160,45,Male,Married,47764,20,Home Goods
+483,5712,30,Male,Married,42240,11,Home Goods
+484,4907,47,Male,Divorced,113834,35,Electronics
+485,1526,30,Male,Divorced,77118,16,Appliances
+486,5016,61,Female,Married,78372,12,Appliances
+487,1919,40,Female,Divorced,82019,19,Electronics
+488,2578,23,Male,Married,111126,38,Appliances
+489,4041,58,Female,Married,63110,15,Home Goods
+490,4599,55,Female,Single,62447,14,Appliances
+491,2144,43,Male,Divorced,61382,46,Appliances
+492,5817,21,Male,Single,53834,22,Appliances
+493,3324,45,Male,Divorced,35223,18,Electronics
+494,3744,27,Male,Divorced,48192,19,Appliances
+495,4813,60,Female,Divorced,116508,16,Home Goods
+496,3620,36,Male,Married,60423,24,Electronics
+497,2738,55,Female,Divorced,52191,37,Electronics
+498,2616,29,Male,Married,93230,11,Home Goods
+499,3795,48,Male,Married,55045,44,Electronics
